@@ -13,7 +13,7 @@ public class Principal {
 		
 		double area2 = tr2.area();
 		double perimetro2 = tr2.perimetro();
-
+ 
 	}
 
 }
